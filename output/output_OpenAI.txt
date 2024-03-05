@@ -1,1 +1,4 @@
-A inteligência artificial generativa é como uma máquina que pode criar coisas novas, como imagens, músicas ou até mesmo textos. Ela aprende com exemplos e pode gerar coisas novas que se parecem com o que já viu antes. Por exemplo, se você mostrar muitas fotos de gatos para essa máquina, ela pode aprender a criar novas imagens de gatos que parecem reais, mesmo que nunca tenham sido fotografados de verdade. É como se fosse uma espécie de "criatividade artificial", onde a máquina pode inventar coisas novas com base no que aprendeu.
+A inteligência artificial generativa é como uma máquina que pode criar coisas novas, como imagens, músicas ou até mesmo textos.
+Ela aprende com exemplos e pode gerar coisas novas que se parecem com o que já viu antes. Por exemplo, se você mostrar muitas fotos de gatos para essa máquina, 
+ela pode aprender a criar novas imagens de gatos que parecem reais, mesmo que nunca tenham sido fotografados de verdade. 
+É como se fosse uma espécie de "criatividade artificial", onde a máquina pode inventar coisas novas com base no que aprendeu.
